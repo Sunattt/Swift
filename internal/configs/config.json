@@ -1,0 +1,12 @@
+{
+  "server_port": {
+    "port": ":8080",
+    "host": "localhost"
+  },
+  "db": {
+    "user": "postgres",
+    "password": "postgres",
+    "dbname":"postgres"
+  },
+    "secret_key": "everything"
+}
